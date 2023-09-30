@@ -226,3 +226,71 @@ input[type="radio"] {
 }
 
 /*Seccion de jose*/
+
+.pelis {
+    background-color: lightgrey;
+    padding-left: 70px;
+    padding-bottom: 30px;
+}
+h1 {
+    font-size: 25px;
+    font-weight: 500;
+    color: black;
+    text-transform: uppercase;
+}
+
+.cartelito {
+    display: flex;
+    align-content: space-between ;
+}
+
+.estrenos {
+    background-color:darkred;
+    height: 30px;
+    width: 300px;
+    display: table;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+
+.cartelito1 {
+    display: flex;
+    align-content: space-between;
+   
+}
+
+.estreno1 {
+    background-color:darkred;
+    height: 30px;
+    width: 300px;
+    display: table;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+
+.cartelito2 {
+    display: flex;
+    align-content: space-between;
+   
+}
+
+.estreno2 {
+    background-color:darkred;
+    height: 30px;
+    width: 300px;
+    display: table;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
